@@ -5,3 +5,5 @@
 #### grid game created as a project to learn plain javascript
 
 [play game!](https://santosh-2048.netlify.app/) and enjoy
+
+#### Instructions:  use arrow keys to move 
